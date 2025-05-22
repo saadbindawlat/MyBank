@@ -20,9 +20,6 @@
 - **API/Integration:** Plaid API
 - **Authentication:** Clerk (if applicable)
 
-## 📸 Screenshot
-
-
 ## 💡 Purpose
 
 This project was built to simulate a personal banking experience, showcasing real-time transaction data and secure interactions through third-party APIs. It demonstrates practical full-stack development, modern UI/UX design, and third-party service integration.
