@@ -16,9 +16,9 @@
 ## 🛠️ Built With
 
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express (assumed if applicable)
+- **Backend:** Node.js, Express 
 - **API/Integration:** Plaid API
-- **Authentication:** Clerk (if applicable)
+- **Authentication:** Appwrite
 
 ## 💡 Purpose
 
