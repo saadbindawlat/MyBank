@@ -1,7 +1,7 @@
 ![image alt](https://github.com/saadbindawlat/MyBank/blob/c26b72012826b70d06dcf14632acc108f0bfd0d0/lib/Untitled%20design.png)
 
 
-# MyBank 💳
+ MyBank 💳
 
 **MyBank** is a modern, full-stack banking dashboard application designed to help users manage their financial activities with ease. The platform allows users to view their bank accounts, track transactions, transfer funds, and connect new banks securely.
 
